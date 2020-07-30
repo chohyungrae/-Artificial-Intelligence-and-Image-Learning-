@@ -1,4 +1,5 @@
-# -Artificial-Intelligence-and-Image-Learning-
+# - Video imaging and artificial intelligence learning -
+# 비디오 영상제작과 인공지능 학습
 인공지능과 영상프로그램을 활용하여 짤방만들고 유투버 체험하기(Using artificial intelligence and video programs to create a chat room and experience YouTube)
 
 [ 소개(Introduce)]
